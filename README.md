@@ -44,7 +44,7 @@ We welcome contributions to enhance ComfyNest! To contribute, follow these steps
 - Push to the branch: git push origin feature-branch-name
 - Open a pull request.
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
